@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-  🌱 <b>Currently Learning:</b> Fast API &nbsp;|&nbsp;
+  🌱 <b>Currently Learning:</b> .NET &nbsp;|&nbsp;
   🎓 <b>Degree:</b> BSc (Hons) Software Engineering &nbsp;|&nbsp;
   ⚡ <b>Nickname:</b> AK 😄
 </p>
