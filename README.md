@@ -1,17 +1,22 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding Fun Animation" width="500" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:6C63FF&height=220&section=header&text=Hi%20there,%20I'm%20Akalanka%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Undergraduate%20%7C%20Full%20Stack%20Web%20Developer&descAlignY=55&descSize=18" width="100%"/>
+
 </div>
 
-<h1 align="center">Hi 👋, I'm Akalanka Gunathilake</h1>
-<h3 align="center">Software Engineering Undergraduate | Full Stack Web Developer</h3>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineering+Undergraduate;Full+Stack+Web+Developer;Intern+Software+Engineer+%40+Verdentra;Always+learning+something+new!&center=true&width=600&height=45&color=6C63FF&vCenter=true&size=22&font=Fira+Code" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akalankagunathilake2002&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=akalankagunathilake2002&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile views" />
 </p>
 
 <p align="center">
   <a href="mailto:akalankaharshana2002@gmail.com">
-    <img src="https://img.shields.io/badge/Email-akalankaharshana2002%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-akalankaharshana2002%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/akalanka-gunathilake" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Akalanka%20Gunathilake-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -21,76 +26,86 @@
   </a>
 </p>
 
-<hr/>
-
-<h2 align="center">🌟 About Me</h2>
-
 <p align="center">
-  I’m a <b>Software Engineering Undergraduate</b> at
-  <b>Sri Lanka Institute of Information Technology (SLIIT)</b>, focused on building
-  <b>modern, scalable, and user-friendly</b> web applications.
-</p>
-
-<p align="center">
-  🌱 <b>Currently Learning:</b> .NET &nbsp;|&nbsp;
-  🎓 <b>Degree:</b> BSc (Hons) Software Engineering &nbsp;|&nbsp;
-  ⚡ <b>Nickname:</b> AK 😄
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding Fun Animation" width="480" />
 </p>
 
 <hr/>
 
-<h2 align="center">🧩 What I Do</h2>
+## 🌟 About Me
+
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF"/>
+
+- 🔭 Currently working as an **Intern Software Engineer** at **Verdentra, Colombo**
+- 🎓 **Software Engineering Undergraduate** at **Sri Lanka Institute of Information Technology (SLIIT)**, pursuing a **BSc (Hons) in Software Engineering**
+- 💻 Passionate about building **modern, scalable, and user-friendly** web applications
+- 🌱 **Currently Learning:** .NET
+- ⚡ **Nickname:** AK 😄
+- 💬 Ask me about: **React, Next.js, Node.js, REST APIs, and full-stack development**
+
+<br clear="right"/>
+
+<hr/>
+
+## 🧩 What I Do
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%">🌐<br/><b>Full-Stack Web Apps</b></td>
+    <td align="center" width="25%">🔗<br/><b>REST APIs & Backend Services</b></td>
+    <td align="center" width="25%">🎨<br/><b>Clean, Responsive UI/UX</b></td>
+    <td align="center" width="25%">📚<br/><b>Academic & Real-World Projects</b></td>
+  </tr>
+</table>
+
+<hr/>
+
+## 🛠️ Programming Languages & Tools
 
 <p align="center">
-  • Build full-stack web applications <br/>
-  • Develop REST APIs & backend services <br/>
-  • Design clean, responsive UIs <br/>
-  • Work on academic & real-world projects
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,bootstrap,tailwind,mysql,java,php,dotnet,cs,git,github,linux,figma,vscode,postman&theme=dark" />
 </p>
 
 <hr/>
 
-<h2 align="center">🛠️ Programming Languages & Tools</h2>
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="44" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="44" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="44" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="44" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="44" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="44" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="44" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="44" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="44" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="44" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="44" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="44" />
-</p>
-
-<hr/>
-
-<h2 align="center">📊 GitHub Statistics</h2>
+## 📊 GitHub Statistics
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=akalankagunathilake2002&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=akalankagunathilake2002&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
     height="170"
   />
-  <br/><br/>
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=akalankagunathilake2002&layout=compact&theme=tokyonight&hide_border=true"
     height="170"
   />
-  <br/><br/>
+</div>
+
+<div align="center">
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=akalankagunathilake2002&theme=tokyonight&hide_border=true"
     height="170"
   />
 </div>
 
+<div align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=akalankagunathilake2002&theme=tokyo-night&hide_border=true"
+    width="95%"
+  />
+</div>
+
 <hr/>
 
-<h2 align="center">🌐 Connect With Me</h2>
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=akalankagunathilake2002&theme=tokyonight&no-frame=true&row=1&column=7" />
+</div>
+
+<hr/>
+
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/akalanka-gunathilake" target="_blank">
@@ -99,8 +114,9 @@
   <a href="mailto:akalankaharshana2002@gmail.com">
     <img src="https://img.shields.io/badge/Email-Message%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://instagram.com/the_ak" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="500" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:0A66C2&height=120&section=footer" width="100%"/>
